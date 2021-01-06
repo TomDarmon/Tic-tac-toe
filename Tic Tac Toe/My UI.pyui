@@ -1,0 +1,37 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{127, 131}, {146, 77.5}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WHLRTB",
+          "action" : "button_tapped",
+          "frame" : "{{120, 144}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Restart a game",
+          "uuid" : "1F161DF2-822B-47C7-8336-F4D22E11E6FC",
+          "background_color" : "RGBA(0.121462,0.121462,0.728774,1.000000)",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {392, 339}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "Play again ? ",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
